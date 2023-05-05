@@ -1,0 +1,1333 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.26f1 (7298b473bc1a) revision 7510196'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16289 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.3.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Documents/000 - Trisagion Games/Sister Nina and Koko/WebGL Paint Test
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53998
+Successfully changed project path to: D:/Documents/000 - Trisagion Games/Sister Nina and Koko/WebGL Paint Test
+D:/Documents/000 - Trisagion Games/Sister Nina and Koko/WebGL Paint Test
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path D:/Program Files/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Documents/000 - Trisagion Games/Sister Nina and Koko/WebGL Paint Test/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'D:/Program Files/2020.3.26f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56584
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.3.26f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.3.26f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/Program Files/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001971 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 42.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.548 seconds
+Domain Reload Profiling:
+	ReloadAssembly (548ms)
+		BeginReloadAssembly (63ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (422ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (143ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (160ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (73ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004523 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 42.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1037ms)
+		BeginReloadAssembly (145ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (840ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (285ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (309ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (176ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2334 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.7 MB.
+System memory in use after: 101.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2768.
+Total: 2.883400 ms (FindLiveObjects: 0.189900 ms CreateObjectMapping: 0.129900 ms MarkObjects: 2.501000 ms  DeleteObjects: 0.061700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/XDPaint/Demo/Prefabs/LayerUI.prefab
+  artifactKey: Guid(1dbf0df1092e24ba792af115c6e76e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Prefabs/LayerUI.prefab using Guid(1dbf0df1092e24ba792af115c6e76e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ebfb6d1a0f00b2784bf0fa27f43667a') in 0.092525 seconds 
+  Import took 0.095828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.203642 seconds.
+  path: Assets/XDPaint/Prefabs/[XDPaintContainer].prefab
+  artifactKey: Guid(c9bfee2e8f75c40958f6044f48d52409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Prefabs/[XDPaintContainer].prefab using Guid(c9bfee2e8f75c40958f6044f48d52409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10087c5a05c64d1694dc0a9fc5344b39') in 0.009738 seconds 
+  Import took 0.012978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.075025 seconds.
+  path: Assets/XDPaint/Resources/XDPaintBrushPresets.asset
+  artifactKey: Guid(512a956b8e96b4307bdda0ac9466f742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Resources/XDPaintBrushPresets.asset using Guid(512a956b8e96b4307bdda0ac9466f742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4d170934a4a60dc84ea2d040065c02') in 0.059261 seconds 
+  Import took 0.063603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/XDPaint/Resources/XDPaintStatesSettings.asset
+  artifactKey: Guid(6c00e23d48889483a9aed4b40d5405d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Resources/XDPaintStatesSettings.asset using Guid(6c00e23d48889483a9aed4b40d5405d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5bdaf5d74682700e8656167f88c174') in 0.006298 seconds 
+  Import took 0.009236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/XDPaint/Resources/XDPaintSettings.asset
+  artifactKey: Guid(326dddc1d34954d17a5a6812d8049867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Resources/XDPaintSettings.asset using Guid(326dddc1d34954d17a5a6812d8049867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e3896d0dc85bc8b96802a9e94da881') in 0.009397 seconds 
+  Import took 0.012124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.183688 seconds.
+  path: Assets/XDPaint/Scripts/XDPaint.asmdef
+  artifactKey: Guid(67996ca52dd364b60917f0aa1db1be50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Scripts/XDPaint.asmdef using Guid(67996ca52dd364b60917f0aa1db1be50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46aac85fad2719cfbcf810af74699efe') in 0.007030 seconds 
+  Import took 0.010123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.525431 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Models/Elemental/Elemental.fbx
+  artifactKey: Guid(41f0968da059249a29a442fd84fe19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Models/Elemental/Elemental.fbx using Guid(41f0968da059249a29a442fd84fe19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93f0d7d5a810055e9f85c6c13de7e7a') in 0.575625 seconds 
+  Import took 0.580930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.609328 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/Background.png
+  artifactKey: Guid(a1cb120e35a7b45189e55521f9ca1164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/Background.png using Guid(a1cb120e35a7b45189e55521f9ca1164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f269c4e119aa3d5c23a2bc511778b9') in 0.027384 seconds 
+  Import took 0.030538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/LayerRemove.png
+  artifactKey: Guid(93a7314c7a9fb433bb394c10ba5bf69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/LayerRemove.png using Guid(93a7314c7a9fb433bb394c10ba5bf69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7d0f0c55f2aabbb9aabbaa06da823a') in 0.013071 seconds 
+  Import took 0.016026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/LayerAdd.png
+  artifactKey: Guid(c9d762a5e282540dd9bb5e3740f6aa00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/LayerAdd.png using Guid(c9d762a5e282540dd9bb5e3740f6aa00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe498b4533f3406a197f5f00c691a589') in 0.013678 seconds 
+  Import took 0.016940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/Circle.png
+  artifactKey: Guid(748ea1abbbb204494b662ca68855154a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/Circle.png using Guid(748ea1abbbb204494b662ca68855154a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a918ce3ae795af20d04f689e135103') in 0.012679 seconds 
+  Import took 0.015817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/LayerDrag.png
+  artifactKey: Guid(c9d638f9799054995b711c7a90a671b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/LayerDrag.png using Guid(c9d638f9799054995b711c7a90a671b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7b30e59b36dcf1266108bf4bc20a31') in 0.019024 seconds 
+  Import took 0.022442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/PlateUp.png
+  artifactKey: Guid(2b22a013a29ee43c1994945e41ce97fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/PlateUp.png using Guid(2b22a013a29ee43c1994945e41ce97fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4727ddf66a1f4d3456a5d6b050410cf6') in 0.014772 seconds 
+  Import took 0.017875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/PlateLeft.png
+  artifactKey: Guid(cf7a32e4b36544621a594db2df42a894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/PlateLeft.png using Guid(cf7a32e4b36544621a594db2df42a894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c01eeb93a6a48101b5d9e8087157bb') in 0.011592 seconds 
+  Import took 0.014653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/Plate1.png
+  artifactKey: Guid(e63181a8fbeb24e97aa262a88e798c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/Plate1.png using Guid(e63181a8fbeb24e97aa262a88e798c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e7ffe4cf69a607f8f9cfca91275dd7') in 0.011321 seconds 
+  Import took 0.014338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/Plate2.png
+  artifactKey: Guid(d485443fedc754572afde8c4800b4d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/Plate2.png using Guid(d485443fedc754572afde8c4800b4d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629342184779f21f41f1b824953a1e59') in 0.013532 seconds 
+  Import took 0.016408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/Layers_Icon.png
+  artifactKey: Guid(753be1f7cf71047f6a9792f7055e8adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/Layers_Icon.png using Guid(753be1f7cf71047f6a9792f7055e8adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86d07500bf6d51e45068963c3a7baf20') in 0.013169 seconds 
+  Import took 0.016119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/Merge.png
+  artifactKey: Guid(74e936192a5e84f52acce5bfd78f2ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/Merge.png using Guid(74e936192a5e84f52acce5bfd78f2ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54119da410213fed3e2f3eed2eff4935') in 0.013046 seconds 
+  Import took 0.016296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/PlateRight.png
+  artifactKey: Guid(9aaf43d2b92dd40f0accc0682a9b1361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/PlateRight.png using Guid(9aaf43d2b92dd40f0accc0682a9b1361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789f5f3000deb3e699899e3ba16e827f') in 0.011040 seconds 
+  Import took 0.013980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/UI/MergeAll.png
+  artifactKey: Guid(64e97db75d6a14f77865aa73af339cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/UI/MergeAll.png using Guid(64e97db75d6a14f77865aa73af339cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '015e3ba770561a01ce72512e7ab3848f') in 0.012653 seconds 
+  Import took 0.015492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.145584 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_1.png
+  artifactKey: Guid(b3fb4a723aefd4e989728bbf7027bed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_1.png using Guid(b3fb4a723aefd4e989728bbf7027bed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a29848e85807aae1ded5b13651b4bc') in 0.012759 seconds 
+  Import took 0.015864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Layers_3.png
+  artifactKey: Guid(02f36001df8424408ac7fe95a3457f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Layers_3.png using Guid(02f36001df8424408ac7fe95a3457f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f5533a4e3d0876fb9015a9591544c9') in 0.012456 seconds 
+  Import took 0.015296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BlurConfig.png
+  artifactKey: Guid(c8e8d89a604d149bfaac82322f6f2329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BlurConfig.png using Guid(c8e8d89a604d149bfaac82322f6f2329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f2ffd2322c712b695f2bd6fc1a9638') in 0.013641 seconds 
+  Import took 0.016696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/EraseTool.png
+  artifactKey: Guid(1442f992ec3b9443e904ce408da6e899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/EraseTool.png using Guid(1442f992ec3b9443e904ce408da6e899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20aec62f472f3d9481367ee2b1dc048') in 0.013428 seconds 
+  Import took 0.016702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/GrayscaleTool.png
+  artifactKey: Guid(ee9b4c35d999a464abfd0722fb246840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/GrayscaleTool.png using Guid(ee9b4c35d999a464abfd0722fb246840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ec70448fcd59c926176951a8eb67c5') in 0.013852 seconds 
+  Import took 0.016998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushHardness.png
+  artifactKey: Guid(859af91b5133a4a828dca878771253e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushHardness.png using Guid(859af91b5133a4a828dca878771253e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6e9521a7ee516c22ea56c54df9d023') in 0.014559 seconds 
+  Import took 0.017641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Components.png
+  artifactKey: Guid(b79cff7bca9b74547942c889033e92ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Components.png using Guid(b79cff7bca9b74547942c889033e92ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069aa8c8664ff4c1968043a29ca4382f') in 0.013499 seconds 
+  Import took 0.016330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/GaussianBlurTool.png
+  artifactKey: Guid(77a99a7bf002145caab3eace947bc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/GaussianBlurTool.png using Guid(77a99a7bf002145caab3eace947bc87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b336dfe6bd15b9c64550b1481b3871') in 0.013638 seconds 
+  Import took 0.016447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/CloneTool.png
+  artifactKey: Guid(5b769689dd0294e64a80304b319b4a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/CloneTool.png using Guid(5b769689dd0294e64a80304b319b4a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1526ca5480cbd7ff9503617643cc3aa1') in 0.013389 seconds 
+  Import took 0.016220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/DragDrop.png
+  artifactKey: Guid(b593ebf6a0ccc449a84b98d208e38eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/DragDrop.png using Guid(b593ebf6a0ccc449a84b98d208e38eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11492e234b8a004dc9e7c8a6029a43e5') in 0.012038 seconds 
+  Import took 0.015058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/LayerRemove.png
+  artifactKey: Guid(fd638b427d62a4eeca26aa179e378e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/LayerRemove.png using Guid(fd638b427d62a4eeca26aa179e378e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93604ea3be346126116b775d9ae1b42') in 0.012911 seconds 
+  Import took 0.015772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Brush.png
+  artifactKey: Guid(35b2a969e46ce4ee8a829b52aa904041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Brush.png using Guid(35b2a969e46ce4ee8a829b52aa904041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6af8af1ff6a4b0ee687a14aed215cd') in 0.013758 seconds 
+  Import took 0.016556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BucketTool.png
+  artifactKey: Guid(122e45b042c6848649bf58a19a0b283c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BucketTool.png using Guid(122e45b042c6848649bf58a19a0b283c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fa19e71c82bbb248cda7b1831407c0') in 0.011628 seconds 
+  Import took 0.014426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_7.png
+  artifactKey: Guid(baf4a9f9140614cc4a777d0182708de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_7.png using Guid(baf4a9f9140614cc4a777d0182708de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28664b56f1f479b6040781b6b30dbf5') in 0.012846 seconds 
+  Import took 0.015800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/LayersMergeAll.png
+  artifactKey: Guid(e0558e8eaf6964d9c9e0679f5ef19c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/LayersMergeAll.png using Guid(e0558e8eaf6964d9c9e0679f5ef19c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e8f8b5b3bcdb22b47bd6feb9c3e95e') in 0.010985 seconds 
+  Import took 0.013965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Redo.png
+  artifactKey: Guid(fda9077fc3cfc4ef798dc455494ae5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Redo.png using Guid(fda9077fc3cfc4ef798dc455494ae5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd051640ae3ae817903361bd2b1140155') in 0.012027 seconds 
+  Import took 0.015127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_4.png
+  artifactKey: Guid(183bd67a6ea4e43d7a81f884b0329bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_4.png using Guid(183bd67a6ea4e43d7a81f884b0329bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '979a6a766cd2af38b87bc1639e498ed3') in 0.020431 seconds 
+  Import took 0.023465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/LayerAdd.png
+  artifactKey: Guid(588f9190b7e7f4fd697da7a09e7d8e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/LayerAdd.png using Guid(588f9190b7e7f4fd697da7a09e7d8e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e474795371d7111113b659eb8d8185ec') in 0.011395 seconds 
+  Import took 0.014214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushOpacity.png
+  artifactKey: Guid(c6df8e9bd1c084e7e851582447ed3291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushOpacity.png using Guid(c6df8e9bd1c084e7e851582447ed3291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75b33cc5c1d67d07f6f618c9b1b3e4e') in 0.012375 seconds 
+  Import took 0.015500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Slider_3.png
+  artifactKey: Guid(e2becff739a2e4cf3a82496c06a8bf74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Slider_3.png using Guid(e2becff739a2e4cf3a82496c06a8bf74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13986d00c318fa86f29d3291135987b0') in 0.011720 seconds 
+  Import took 0.014921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushSamplerTool.png
+  artifactKey: Guid(bad054e924b1542768b76695bbd31231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushSamplerTool.png using Guid(bad054e924b1542768b76695bbd31231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a3cfb63aaf54158e85a6997b565dd3') in 0.013856 seconds 
+  Import took 0.016940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_5.png
+  artifactKey: Guid(bc40aed319c5b4bb3ba165237ea2badf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_5.png using Guid(bc40aed319c5b4bb3ba165237ea2badf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64aa1a8b85f2cf9b70b0bb5b6c4df08c') in 0.011534 seconds 
+  Import took 0.014890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Slider_1.png
+  artifactKey: Guid(0cef83dd48f3d463a8528f371fdfb3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Slider_1.png using Guid(0cef83dd48f3d463a8528f371fdfb3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20560acc1f4690a018b80838ac2c97e7') in 0.011473 seconds 
+  Import took 0.015147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_2.png
+  artifactKey: Guid(6b331132bd6394a47856a49d55337ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_2.png using Guid(6b331132bd6394a47856a49d55337ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26d029106fa8480fca85ae648417e7d') in 0.011107 seconds 
+  Import took 0.014389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_3.png
+  artifactKey: Guid(36b2926b0566a493f8356eabc49ddf78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_3.png using Guid(36b2926b0566a493f8356eabc49ddf78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2919ac5faea9ec0fb1ea3f15375aa7b') in 0.013969 seconds 
+  Import took 0.017195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_9.png
+  artifactKey: Guid(de4f66844cc2f448fbc0465fde91cc5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_9.png using Guid(de4f66844cc2f448fbc0465fde91cc5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28ac03c1ee4574799d283f750026b262') in 0.011928 seconds 
+  Import took 0.015544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/LayersMerge.png
+  artifactKey: Guid(874ef3ac0e9cc4082abca704ace9a355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/LayersMerge.png using Guid(874ef3ac0e9cc4082abca704ace9a355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c7bf80463a76a68d45e22423b40b19') in 0.011916 seconds 
+  Import took 0.015858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_8.png
+  artifactKey: Guid(de73998744836432ab9d09ef780b2236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_8.png using Guid(de73998744836432ab9d09ef780b2236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a10096a1e03e3605431d39929e88100') in 0.011713 seconds 
+  Import took 0.015159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Slider_2.png
+  artifactKey: Guid(5bd3757988a25407ba2855d2bc6b59df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Slider_2.png using Guid(5bd3757988a25407ba2855d2bc6b59df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6b3487e41edf6322cfbfc2922c9fba') in 0.011822 seconds 
+  Import took 0.015430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Rotate.png
+  artifactKey: Guid(e21b7f83aad42417a9b120e67290ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Rotate.png using Guid(e21b7f83aad42417a9b120e67290ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed2fc0bb68cd5ebb551763dab97ef43') in 0.014207 seconds 
+  Import took 0.017395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Circle.png
+  artifactKey: Guid(6960ab4cc16e0447d99aca1f16b55f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Circle.png using Guid(6960ab4cc16e0447d99aca1f16b55f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6641d3ffb199a663d433f6f925d616de') in 0.014130 seconds 
+  Import took 0.017330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushTool.png
+  artifactKey: Guid(0362667a5600942faa57d65998298cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushTool.png using Guid(0362667a5600942faa57d65998298cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2719acf00845d3f283a3024fff8220') in 0.013564 seconds 
+  Import took 0.016452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_6.png
+  artifactKey: Guid(8f1c589a294194270aea7dead6d6c870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Arrow_6.png using Guid(8f1c589a294194270aea7dead6d6c870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2439a20a17dde0eedec3ca41e086648') in 0.012568 seconds 
+  Import took 0.015435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushSize.png
+  artifactKey: Guid(5eae08b9fba1f460f9823443d329046a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BrushSize.png using Guid(5eae08b9fba1f460f9823443d329046a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338f581ea05b9448ad45b843d53a7caf') in 0.012963 seconds 
+  Import took 0.015782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BlurTool.png
+  artifactKey: Guid(2fdf610c55d724b6980aa03164105b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/BlurTool.png using Guid(2fdf610c55d724b6980aa03164105b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99fa8b9c561087ae4b1e051811fd1345') in 0.013898 seconds 
+  Import took 0.016711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Tutorial_1.png
+  artifactKey: Guid(e8373b5236e914558ab8063f4393b204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Tutorial_1.png using Guid(e8373b5236e914558ab8063f4393b204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5862d263586929716f786d32d5fb3bb7') in 0.013394 seconds 
+  Import took 0.016221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/EyedropperTool.png
+  artifactKey: Guid(3fe1f278212f747469634114cd9883da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/EyedropperTool.png using Guid(3fe1f278212f747469634114cd9883da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f033ce7954431d28971effb2c090b2ed') in 0.013090 seconds 
+  Import took 0.016077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/PlayPause.png
+  artifactKey: Guid(067a58a313aa84ffabd7ad8622b78f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/PlayPause.png using Guid(067a58a313aa84ffabd7ad8622b78f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779dad13ceffb9f3694cf8956ade0e60') in 0.013170 seconds 
+  Import took 0.016247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/OnOffLayers.png
+  artifactKey: Guid(fd36a01312bff4978a2dd075e6cb6a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/OnOffLayers.png using Guid(fd36a01312bff4978a2dd075e6cb6a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb3cf0b74e971579cc47999afb674de') in 0.012888 seconds 
+  Import took 0.016096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.327631 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Tutorial_2.png
+  artifactKey: Guid(a82fdee34a04a4ca8b723f25760b2992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Tutorial_2.png using Guid(a82fdee34a04a4ca8b723f25760b2992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f4199de984e4591386cfea28854e7f') in 0.013081 seconds 
+  Import took 0.016252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Undo.png
+  artifactKey: Guid(f63649a7c291544118a11f7a29d6378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tutorial/Undo.png using Guid(f63649a7c291544118a11f7a29d6378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f11a6b0c5f63542d62ef647b1d6dbd8') in 0.011786 seconds 
+  Import took 0.014711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.482177 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Prefabs/Elemental.prefab
+  artifactKey: Guid(532450eed616e445baab1c8ba3767422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Prefabs/Elemental.prefab using Guid(532450eed616e445baab1c8ba3767422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb6bf9fcdb9639feb7818c4ab6f9f2d') in 0.111154 seconds 
+  Import took 0.117005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Prefabs/LightHouse.prefab
+  artifactKey: Guid(c16e8f692183044e1af050bf1a476776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Prefabs/LightHouse.prefab using Guid(c16e8f692183044e1af050bf1a476776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4239832a495fbf499146cc72073e0319') in 0.094228 seconds 
+  Import took 0.097441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.359307 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Models/LightHouse/LightHouse.FBX
+  artifactKey: Guid(0d9934b348e934b1d8663a4302247c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Models/LightHouse/LightHouse.FBX using Guid(0d9934b348e934b1d8663a4302247c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d14795f81958abf6663884f8477d72') in 0.016649 seconds 
+  Import took 0.019833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.121600 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Materials/Elemental.mat
+  artifactKey: Guid(ca2febee3ab924dd3b65b27eebba683c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Materials/Elemental.mat using Guid(ca2febee3ab924dd3b65b27eebba683c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546b3bfaa0e22ebc634cf157afd297e4') in 0.080635 seconds 
+  Import took 0.085603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Materials/SpriteMask.mat
+  artifactKey: Guid(323910762a72648d18fd69039b40d937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Materials/SpriteMask.mat using Guid(323910762a72648d18fd69039b40d937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcb537ce9e3bd7970e8358483acf5e5b') in 0.020761 seconds 
+  Import took 0.023709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Materials/RawImage.mat
+  artifactKey: Guid(a5168c38a4af54da7a02ce06f2de7f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Materials/RawImage.mat using Guid(a5168c38a4af54da7a02ce06f2de7f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9af740d07fd97b30d9e9861f1a880e8') in 0.048592 seconds 
+  Import took 0.051489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Materials/PlaneMaterial.mat
+  artifactKey: Guid(9bfe25dc50db542388683887a194b8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Materials/PlaneMaterial.mat using Guid(9bfe25dc50db542388683887a194b8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96bcb3dd068fe61396f56edeb20dc73') in 0.010939 seconds 
+  Import took 0.014042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Materials/LightHouse.mat
+  artifactKey: Guid(4a363f388d2744db2b40a0c7886bfbaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Materials/LightHouse.mat using Guid(4a363f388d2744db2b40a0c7886bfbaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce5c99cffd50b99b766f2877865470a') in 0.014143 seconds 
+  Import took 0.017264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.499372 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tape.png
+  artifactKey: Guid(dd9d6dba7866645b5abf1ab1099493db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tape.png using Guid(dd9d6dba7866645b5abf1ab1099493db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d61faeef162ce9b4fc4f9ba02c33d3f') in 0.014841 seconds 
+  Import took 0.018012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.370535 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Elemental.png
+  artifactKey: Guid(a75ea288d65b144dfa5a2df68d4cc983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Elemental.png using Guid(a75ea288d65b144dfa5a2df68d4cc983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb3ce43ca151cded736dce8956f430d') in 0.025560 seconds 
+  Import took 0.029829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/SampleImage.png
+  artifactKey: Guid(af14d4779ccfa498fa4c6488ea8722ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/SampleImage.png using Guid(af14d4779ccfa498fa4c6488ea8722ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed4eddc30559af89f69f5e09321bf5c7') in 0.016727 seconds 
+  Import took 0.019770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/LightHouse.png
+  artifactKey: Guid(8e654253914d14fb0a42725243018ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/LightHouse.png using Guid(8e654253914d14fb0a42725243018ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982f0eed9d182344d066339940f41046') in 0.013290 seconds 
+  Import took 0.016559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/ElementalNormals.png
+  artifactKey: Guid(8c8736b6a17074204997054fcab5cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/ElementalNormals.png using Guid(8c8736b6a17074204997054fcab5cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59719ceb588846d4706b14fca2dfc3ab') in 0.055370 seconds 
+  Import took 0.059506 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.9 MB.
+System memory in use after: 61.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2914.
+Total: 3.419500 ms (FindLiveObjects: 0.172600 ms CreateObjectMapping: 0.110600 ms MarkObjects: 3.106400 ms  DeleteObjects: 0.029200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.941 seconds
+Domain Reload Profiling:
+	ReloadAssembly (941ms)
+		BeginReloadAssembly (116ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (775ms)
+			LoadAssemblies (104ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (283ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (276ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (182ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2310 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.6 MB.
+System memory in use after: 103.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2916.
+Total: 3.175200 ms (FindLiveObjects: 0.176600 ms CreateObjectMapping: 0.088000 ms MarkObjects: 2.892300 ms  DeleteObjects: 0.017400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004644 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.944 seconds
+Domain Reload Profiling:
+	ReloadAssembly (944ms)
+		BeginReloadAssembly (118ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (776ms)
+			LoadAssemblies (103ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (278ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (277ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (187ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2310 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.6 MB.
+System memory in use after: 103.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2918.
+Total: 2.792500 ms (FindLiveObjects: 0.181900 ms CreateObjectMapping: 0.105700 ms MarkObjects: 2.485500 ms  DeleteObjects: 0.018000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 146.603232 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures
+  artifactKey: Guid(ec19d90bd15c84c499a75d3de9100539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures using Guid(ec19d90bd15c84c499a75d3de9100539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f6ddecef52743bbbaefc402303f37e8') in 0.008621 seconds 
+  Import took 0.011793 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004829 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.930 seconds
+Domain Reload Profiling:
+	ReloadAssembly (931ms)
+		BeginReloadAssembly (121ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (760ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (276ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (267ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (70ms)
+				ProcessInitializeOnLoadAttributes (178ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2310 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.7 MB.
+System memory in use after: 103.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2920.
+Total: 2.670500 ms (FindLiveObjects: 0.169700 ms CreateObjectMapping: 0.091900 ms MarkObjects: 2.391800 ms  DeleteObjects: 0.016400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 14.499068 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/New Material.mat
+  artifactKey: Guid(db2fc7daf01bbf9418ee79d437d880a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/New Material.mat using Guid(db2fc7daf01bbf9418ee79d437d880a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c8e9a20d0711320d02958cceec50f7a') in 0.085723 seconds 
+  Import took 0.089013 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Domain Reload Profiling:
+	ReloadAssembly (937ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (776ms)
+			LoadAssemblies (104ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (285ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (274ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (177ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2310 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.7 MB.
+System memory in use after: 103.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2923.
+Total: 3.410400 ms (FindLiveObjects: 0.188400 ms CreateObjectMapping: 0.099000 ms MarkObjects: 3.103800 ms  DeleteObjects: 0.018300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004336 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Domain Reload Profiling:
+	ReloadAssembly (933ms)
+		BeginReloadAssembly (108ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (775ms)
+			LoadAssemblies (103ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (278ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (280ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (182ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2310 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.6 MB.
+System memory in use after: 103.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2925.
+Total: 3.341600 ms (FindLiveObjects: 0.190700 ms CreateObjectMapping: 0.099900 ms MarkObjects: 3.031800 ms  DeleteObjects: 0.018200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004510 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.937 seconds
+Domain Reload Profiling:
+	ReloadAssembly (937ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (762ms)
+			LoadAssemblies (105ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (272ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (271ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (76ms)
+				ProcessInitializeOnLoadAttributes (177ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2310 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.7 MB.
+System memory in use after: 103.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2927.
+Total: 4.025400 ms (FindLiveObjects: 0.856600 ms CreateObjectMapping: 0.495500 ms MarkObjects: 2.652000 ms  DeleteObjects: 0.019500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004461 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.922 seconds
+Domain Reload Profiling:
+	ReloadAssembly (922ms)
+		BeginReloadAssembly (116ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (756ms)
+			LoadAssemblies (104ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (273ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (267ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (177ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2310 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.7 MB.
+System memory in use after: 103.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2929.
+Total: 2.673900 ms (FindLiveObjects: 0.169900 ms CreateObjectMapping: 0.091500 ms MarkObjects: 2.394600 ms  DeleteObjects: 0.017000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007033 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.969 seconds
+Domain Reload Profiling:
+	ReloadAssembly (969ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (789ms)
+			LoadAssemblies (112ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (288ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (277ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2310 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.7 MB.
+System memory in use after: 104.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2931.
+Total: 2.969600 ms (FindLiveObjects: 0.189500 ms CreateObjectMapping: 0.097100 ms MarkObjects: 2.664400 ms  DeleteObjects: 0.017500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.4 MB.
+System memory in use after: 58.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2931.
+Total: 2.850300 ms (FindLiveObjects: 0.191400 ms CreateObjectMapping: 0.116200 ms MarkObjects: 2.528600 ms  DeleteObjects: 0.013100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.4 MB.
+System memory in use after: 58.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2931.
+Total: 2.706000 ms (FindLiveObjects: 0.176400 ms CreateObjectMapping: 0.095200 ms MarkObjects: 2.418500 ms  DeleteObjects: 0.015200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 219.797808 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Elemental.png
+  artifactKey: Guid(a75ea288d65b144dfa5a2df68d4cc983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Elemental.png using Guid(a75ea288d65b144dfa5a2df68d4cc983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c178c75a0d489cd87fb4133b7487d2a9') in 0.055080 seconds 
+  Import took 0.059250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/SampleImage.png
+  artifactKey: Guid(af14d4779ccfa498fa4c6488ea8722ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/SampleImage.png using Guid(af14d4779ccfa498fa4c6488ea8722ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c0eba4a08735361315e50017d33acaf') in 0.030703 seconds 
+  Import took 0.033852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/LightHouse.png
+  artifactKey: Guid(8e654253914d14fb0a42725243018ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/LightHouse.png using Guid(8e654253914d14fb0a42725243018ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e29a47c82c0e0ff1cc7b48447db8cb4c') in 0.012049 seconds 
+  Import took 0.015493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/Tape.png
+  artifactKey: Guid(dd9d6dba7866645b5abf1ab1099493db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/Tape.png using Guid(dd9d6dba7866645b5abf1ab1099493db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aeced8dc907fccccf5d4c2bedc0e6f3') in 0.016203 seconds 
+  Import took 0.021058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/XDPaint/Demo/Graphics/Textures/ElementalNormals.png
+  artifactKey: Guid(8c8736b6a17074204997054fcab5cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XDPaint/Demo/Graphics/Textures/ElementalNormals.png using Guid(8c8736b6a17074204997054fcab5cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7884b4694a69c49b5f4243b025080596') in 0.044664 seconds 
+  Import took 0.049372 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.6 MB.
+System memory in use after: 58.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2933.
+Total: 3.131700 ms (FindLiveObjects: 0.166700 ms CreateObjectMapping: 0.096000 ms MarkObjects: 2.856400 ms  DeleteObjects: 0.011800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
